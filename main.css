@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Enriqueta&display=swap');
+
+body {
+    background-image: url("assets/background.jpg");
+    /*color: white;*/
+    font-family: 'Enriqueta', serif;
+}
+
+#logo {
+    height: 75px;
+}
+
+.title {
+    font-size: 500%;
+}
+
+.title-margin {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.subtitle {
+    font-size: 350%;
+}
+
+.subtitle-margin {
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/*.carousel-item img {*/
+/*    max-width: 50%;*/
+/*    max-height: 50%;*/
+/*}*/
