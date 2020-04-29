@@ -1,2 +1,2 @@
 # Chenmeister's Concrete
-A ready mix concrete store made for a friend
+A joke site for a friend
